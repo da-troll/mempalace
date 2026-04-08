@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-07",
+  "slug": "2026-04-07-mempalace",
+  "title": "MemPalace Dashboard",
+  "source_repo": "milla-jovovich/mempalace",
+  "source_stars": 13284,
+  "description": "Web dashboard for managing and visualizing AI memory stores. Browse, search, edit, and inspect memory entries across agents. Seeded with real data from the household ogham-memory MCP store.",
+  "tech_stack": ["HTML", "CSS", "JavaScript"],
+  "features": [
+    "3-panel layout: profile/source/tag nav → memory list → detail view",
+    "Browse, Timeline, and Stats views",
+    "Full CRUD: add, edit, delete memories (client state)",
+    "Keyword search with highlight",
+    "Real seed data from ogham-memory (5 profiles, eve: 7802 memories)",
+    "LongMemEval benchmark visualization (96.6% R@5)",
+    "MCP connection badge (ogham-memory)"
+  ],
+  "deploy_path": "/2026-04-07-mempalace/",
+  "serve_dir": "out",
+  "builder": "wilson"
+}
