@@ -17,5 +17,7 @@
   ],
   "deploy_path": "/2026-04-07-mempalace/",
   "serve_dir": "out",
-  "builder": "wilson"
+  "builder": "wilson",
+  "live_url": "https://mvp.trollefsen.com/2026-04-07-mempalace/",
+  "github_url": "https://github.com/sys-fairy-eve/nightly-mvp-2026-04-07-mempalace"
 }
